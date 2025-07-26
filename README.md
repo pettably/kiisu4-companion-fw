@@ -6,13 +6,9 @@ To provide compatibility with Flipper Zero Firmwares on Kiisu development boards
 
 Set exact board revision in Core/Inc/board.h
 
-# Status
+# Changes
 
-Display init & data transfer - working
-Power control - working
-LP5562 led driver emulation - partial
-BQ27220 emulation - not yet
-BQ25896 emulation - not yet
+Display file changed to suit SSD1306
 
 # Building
 
